@@ -46,5 +46,7 @@ public class Solution {
         n2.left = n3;
         n2.right = n4;
         System.out.println(new Solution().isValidBST(root));
+
+
     }
 }
